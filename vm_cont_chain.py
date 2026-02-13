@@ -1,3 +1,5 @@
+# Team Member: Adrian Thomas
+# Github Repo: https://github.com/Pradakicks/ee250_lab4/tree/main
 import paho.mqtt.client as mqtt
 import time
 from datetime import datetime

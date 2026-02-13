@@ -1,5 +1,5 @@
-"""EE 250L Lab 04 - Start Chain
-Run vm_cont_chain.py in a separate terminal on your VM."""
+# Team Member: Adrian Thomas
+# Github Repo: https://github.com/Pradakicks/ee250_lab4/tree/main
 
 import paho.mqtt.client as mqtt
 import time
